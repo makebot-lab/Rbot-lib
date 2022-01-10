@@ -5,4 +5,4 @@
 [![Rbot - lib-version](https://img.shields.io/badge/version-1.0.0-lightgrey)]()
 
 This repository is about a library for makebot R BOT.
-R BOT is humanoid robot developed by WONDAEHAN.
+R BOT is a humanoid robot developed by WONDAEHAN.
