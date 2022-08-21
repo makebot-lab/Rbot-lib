@@ -8,4 +8,4 @@ This repository is about a library for makebot R BOT.
 R BOT is a humanoid robot developed by Daehan Won.
 
 ## Here is a video about R BOT! 
-[![R BOT](https://img.youtube.com/vi/qPRbOdSb7tU/0.jpg)](https://www.youtube.com/embed/qPRbOdSb7tU)
+[![R BOT](https://img.youtube.com/vi/qPRbOdSb7tU/0.jpg)](https://www.youtu.be/qPRbOdSb7tU)
